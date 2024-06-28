@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(202, 202, 209);
+
+}
+
+h1{
+    text-align: center;
+color: rgb(0, 0, 0);
+  }
+
+  h2{
+    color: rgb(0, 0, 0);
+  }
+  
+  header{
+    background-color: rgb(38, 72, 136);
+  }
+  .pagina1{
+    overflow: auto;
+    text-align: center;
+  }
+  .header{
+    height: 150px;
+    position: relative;
+
+  }
+  header img{
+    width: auto;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+
+  }
+  .lista1 {
+    color: blueviolet;
+  }
+  #peixe{
+    display: block;
+    float: left;
+    margin-right: 50px;
+
+     }
+ul{
+    margin: 0;
+    padding: 0;
+
+}
+li{
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 60px;
+}
